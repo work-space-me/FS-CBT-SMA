@@ -1,0 +1,1 @@
+{{-- tampilan untuk details kelas --}}
